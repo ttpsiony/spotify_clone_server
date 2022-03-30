@@ -5,7 +5,8 @@
 	"main": "server.js",
 	"scripts": {
 		"dev": "NODE_ENV=development nodemon server.js",
-		"start": "NODE_ENV=production node server.js"
+		"start": "NODE_ENV=production node server.js",
+		"app": "NODE_ENV=production node server.js"
 	},
 	"keywords": [
 		"express",
